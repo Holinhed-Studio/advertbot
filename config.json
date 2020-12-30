@@ -1,0 +1,18 @@
+{
+    "key": "<id>",
+    "clearonstartup": true,
+    "channelid": "793708798120296488",
+    "adminid": "0",
+    "postinterval": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10
+    },
+    "campaigninterval": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+    }
+}
