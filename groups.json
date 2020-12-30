@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Holinhed",
+        "icon": "https://cdn.discordapp.com/attachments/324664887001350155/793927820010061824/bmw-i8-electric-car-the-new-sports-car-and-its-influence-on-design-0-138.png",
+        "desc": "This is a description of the server.",
+        "code": "Y5Cj2VCy",
+        "color": "#00ff00", 
+        "fields": [
+            {
+                "title": "Rules",
+                "desc": "There are no rules."
+            },
+            {
+                "title": "Regulations",
+                "desc": "I am monkey",
+                "inline": true
+            }
+        ]
+    },
+    {
+        "name": "Holinded",
+        "icon": "https://cdn.discordapp.com/attachments/324664887001350155/793927820010061824/bmw-i8-electric-car-the-new-sports-car-and-its-influence-on-design-0-138.png",
+        "desc": "This is a bad of the server.",
+        "code": "Y5Cj2VCy" 
+    }
+]

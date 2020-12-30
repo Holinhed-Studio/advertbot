@@ -1,18 +1,19 @@
 {
-    "key": "<id>",
+    "key": "<key>",
     "clearonstartup": true,
     "channelid": "793708798120296488",
-    "adminid": "0",
+    "adminid": "165977902951825409",
+    "embedcolor": "#ff0000",
     "postinterval": {
         "days": 0,
         "hours": 0,
         "minutes": 0,
-        "seconds": 10
+        "seconds": 5
     },
     "campaigninterval": {
         "days": 0,
         "hours": 0,
         "minutes": 0,
-        "seconds": 0
+        "seconds": 10
     }
 }
